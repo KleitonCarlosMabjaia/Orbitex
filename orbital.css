@@ -1,0 +1,12 @@
+body {
+        margin: 0;
+        overflow: hidden;
+        background-color: #000000;
+        font-family: Arial, sans-serif;
+    }
+    
+    canvas {
+        display: block;
+        background: radial-gradient(circle at center, #0a0a2a, #000000); /* Suaviza o fundo */
+    }
+    

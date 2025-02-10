@@ -43,13 +43,6 @@ Este é um projeto interativo de simulação orbital criado com **JavaScript** e
 
 ---
 
-## 📌 Possíveis Melhorias
-- Criar um painel de controle para alterar configurações (velocidade, cores, etc.)
-- Implementar colisões entre os objetos
-- Adicionar mais efeitos visuais e sombreamento
-
----
-
 ## 🏆 Autor
 👨‍💻 **Kleiton Ketane de Sousa Carlos Mabjaia**  
 📧 931916137  
